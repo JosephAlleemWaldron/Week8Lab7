@@ -1,0 +1,68 @@
+* { margin: 0; padding: 0; }
+body{
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 5px;   
+}
+
+
+.box{
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 1em;
+    margin: 20px;
+    width: 100%;
+    height: auto;
+
+}
+
+
+.box_dot{
+    padding: 5px;
+    border: 1px dotted black;
+    border-radius: 7em;
+    margin: 3px;
+    width: auto;
+    height: auto;
+
+}
+
+
+.pad_mar{
+    padding: 5px;
+    margin:10px;
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+#main-div{
+    text-align: center;
+}
+img{
+    float: left;
+       
+}
+#main-header{
+    color: rgb(204, 125, 7);
+    text-shadow: 2px 2px 2px black;
+    font-size: 7em;
+}
+#para-two{
+    text-indent: 2em;
+}
+#para-four{
+    text-indent: 2em;
+}
+#footer{
+    text-align: right;
+}
+a{
+    color: red;
+}
+.date-passed{
+    color: gray;
+}
