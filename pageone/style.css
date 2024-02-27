@@ -1,9 +1,16 @@
-* { margin: 0; padding: 0; }
+*{
+    margin: 0px;
+    padding: 0px;
+}
 body{
     margin-top: 10px;
     margin-left: 10%;
     margin-right: 10%;
     padding-top: 5px;   
+}
+
+#img-tag{
+    height:200px;
 }
 
 
@@ -23,7 +30,7 @@ body{
     border: 1px dotted black;
     border-radius: 7em;
     margin: 3px;
-    width: auto;
+    width: 27em;
     height: auto;
 
 }
@@ -49,7 +56,20 @@ img{
 #main-header{
     color: rgb(204, 125, 7);
     text-shadow: 2px 2px 2px black;
-    font-size: 7em;
+    font-size: 5em;
+}
+
+#main-sub-one{
+    padding-bottom: 2em;
+    font-size: 3em;
+
+}
+
+#main-sub-two{
+    font-size: 3em;
+}
+#main-sub-three{
+    font-size: 2em;
 }
 #para-two{
     text-indent: 2em;
